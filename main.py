@@ -8,7 +8,7 @@ delay = 300 # In seconds.
 
 class Main(discord.Client):
     async def on_ready(self):
-        print('Logged in as %s' % self.user)
+        print('Logged in as %s.' % self.user)
         while True:
             channel = self.get_channel(channel_id)
             await channel.send(main_message)
