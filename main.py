@@ -1,7 +1,7 @@
 import discord, asyncio
 
 token = '' # Account's token.
-reply_message = 'Hey! This is an automatic message, join discord.gg/ to buy limiteds!' # Message to reply with when somebody DMs the token.
+reply_message = 'Join discord.gg/ to buy limiteds!' # Message to reply with when somebody DMs the token.
 main_message = 'DM if you want to buy limiteds.' # Message to send in the channel.
 channel_id = 0000000000000000000 # Channel ID to send the message in.
 delay = 300 # In seconds.
