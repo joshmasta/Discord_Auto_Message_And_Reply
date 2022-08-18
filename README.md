@@ -1,4 +1,4 @@
-> Works as of August 9, 2022
+> Works as of August 16, 2022
 
 ### Features:
 - [x] Send message every (x) seconds.
@@ -7,4 +7,4 @@
 - [x] Logging.
 
 ### Discord:
-// vs#5519
+void;#5519
